@@ -41,15 +41,15 @@ En los dos casos lo mas recomendable para ver el funcionamiento de la pagina es 
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/70029c6b-6e25-4f9b-bd34-2b13720d9fd5)
 Con la ruta http://localhost:35000/service/prueba1?message=Juan%20Felipe podemos probarlo donde en message =
 podemos poner la frase que queramos
-Prueba1
+(Prueba1)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/0783021a-a3e8-489a-8963-b39c2be5d2c3)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/e5bb3abf-2d70-4952-aaec-15d0e645a365)
 http://localhost:35000/service/prueba2?message=Leer
-Prueba2
+(Prueba2)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/0e84f0f5-c73f-445d-9362-07c5997e6edc)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/6f7d8c43-3753-4d57-8f84-7b0d4f324dbb)
 Cuando no encuentra el recurso vemos que sale error 404 en la peticion
-Prueba 3
+(Prueba 3)
 # Generar el JavaDoc
 Para Generar el JavaDoc en la consola en la carpeta Lab1 por consola ponemos el siguiente comando
 
