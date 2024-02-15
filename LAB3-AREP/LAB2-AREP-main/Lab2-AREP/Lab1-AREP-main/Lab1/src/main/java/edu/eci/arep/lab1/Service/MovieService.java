@@ -7,7 +7,7 @@ import java.net.URI;
 /**
  * Functional interface
  * 
- * @author Santiago Forero Yate
+ * @Juan Felipe Vivas Manrique
  */
 public interface MovieService {
     
