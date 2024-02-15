@@ -45,11 +45,17 @@ podemos poner la frase que queramos
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/0783021a-a3e8-489a-8963-b39c2be5d2c3)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/e5bb3abf-2d70-4952-aaec-15d0e645a365)
 http://localhost:35000/service/prueba2?message=Leer
-(Prueba2)
+(Prueba 2)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/0e84f0f5-c73f-445d-9362-07c5997e6edc)
 ![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/6f7d8c43-3753-4d57-8f84-7b0d4f324dbb)
 Cuando no encuentra el recurso vemos que sale error 404 en la peticion
 (Prueba 3)
+
+![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/b5aa2599-b50e-458c-9507-b247ae2d5a8b)
+![image](https://github.com/JuanFe2001/LAB3-AREP/assets/123691538/a29a6885-92af-4c23-8176-b8a94068ebec)
+Vemos el correctofuncionamiento de client.html y las busquedas de peliculas
+(Prueba 4)
+
 # Generar el JavaDoc
 Para Generar el JavaDoc en la consola en la carpeta Lab1 por consola ponemos el siguiente comando
 
