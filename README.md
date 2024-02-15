@@ -20,7 +20,7 @@ Para poder ejecutar o correr el proyecto se necesitan unos requisitos minimos lo
 **Main**: Tiene como propósito general iniciar la aplicación del servidor de películas.
 
 ## Adicionalmente
-Se añadieron archivos css, js y html, el servidor retorna estos archivos como lo veremos a continuacion
+Se añadieron metodos get y post como se vera a continuacion
 
 ## POR CONSOLA
 Por consola nos metemos hasta la carpeta Lab1 del proyecto y desde ahi ponemos los siguientes comandos
